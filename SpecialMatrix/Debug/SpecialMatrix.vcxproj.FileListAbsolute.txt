@@ -1,0 +1,2 @@
+D:\random\Проекты на С++\SpecialMatrix\Debug\SpecialMatrix.exe
+D:\random\Проекты на С++\SpecialMatrix\Debug\SpecialMatrix.pdb
